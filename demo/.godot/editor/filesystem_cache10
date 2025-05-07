@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746645715
+benchmark.tscn::PackedScene/PackedScene::8452307375120132902::1746602763::0::1::::<><><>0<>0<><>::uid://cu43wya532ct7::::res://scripts/benchmark.gd
+icon.svg::CompressedTexture2D/CompressedTexture2D::2383096112654703884::1746602763::1746608291::1::::<><><>0<>0<>455be57d36d97687adc038fc1b409d83<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://bin/::1746645711
+gdbenchmark.gdextension::GDExtension/GDExtension::2074185103525427198::1746602763::0::1::::<><><>0<>0<><>::
+::res://scripts/::1746645710
+benchmark.gd::GDScript/GDScript::6238225820239899782::1746609105::0::1::::Benckmark<>Node3D<><>0<>0<><>::
+benchmark_1000_cubes.gd::GDScript/GDScript::4978564615951977220::1746602763::0::1::::Benchmark1000Cubes<>GDBenchmarkWork<><>0<>0<><>::
+benchmark_lot_of_nothing.gd::GDScript::3727465755053144410::1746645710::0::1::::BenchmarkLotOfNothing<>GDBenchmarkWork<><>0<>0<><>::
+benchmark_promised_land.gd::GDScript/GDScript::5244730126858744482::1746602763::0::1::::BenchmarkPromisedLand<>GDBenchmarkWork<><>0<>0<><>::

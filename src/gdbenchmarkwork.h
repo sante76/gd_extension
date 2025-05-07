@@ -23,11 +23,11 @@ namespace godot
 		void run();		
 		
 		virtual void _benchmark();		
-		virtual String _log_message();					
-
-		GDVIRTUAL0(_benchmark);		
-		GDVIRTUAL0R(String, _log_message);
+		virtual String _log_message();			
 		
+		GDVIRTUAL0(_benchmark);		
+		GDVIRTUAL0R(String, _log_message);		
+
 	};
 
 }

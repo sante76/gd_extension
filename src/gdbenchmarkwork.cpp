@@ -13,7 +13,7 @@ void GDBenchmarkWork::_bind_methods()
     ClassDB::bind_method(D_METHOD("run"), &GDBenchmarkWork::run);             
     
     GDVIRTUAL_BIND(_benchmark);
-    GDVIRTUAL_BIND(_log_message);
+    GDVIRTUAL_BIND(_log_message);    
         
     ADD_SIGNAL(MethodInfo("job_ended", PropertyInfo(Variant::STRING, "message")));
 }

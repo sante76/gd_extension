@@ -46,3 +46,4 @@ func _set_camera() -> void:
 	camera.position = CAMERA_POSITION
 	camera.look_at(Vector3.ZERO)
 	
+	

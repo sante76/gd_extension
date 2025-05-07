@@ -2,6 +2,7 @@
 #include "gdbenchmarkwork.h"
 #include "gdbenchmarklotofnothing.h"
 #include "gdbenchmark1000cubes.h"
+#include "gdfakeclass.h"
 #include "gbbenchmarkpromisedland.h"
 #include <gdextension_interface.h>
 #include <godot_cpp/core/defs.hpp>
@@ -18,6 +19,8 @@ void initialize_benchmark_module(ModuleInitializationLevel p_level) {
 	GDREGISTER_RUNTIME_CLASS(GDBenchmarkLotOfNothing);
 	GDREGISTER_RUNTIME_CLASS(GDBenchmark1000Cubes);
 	GDREGISTER_RUNTIME_CLASS(GDBenchmarkPromisedLand);
+
+	GDREGISTER_RUNTIME_CLASS(GDFakeClass);
 }
 
 void uninitialize_benchmark_module(ModuleInitializationLevel p_level) {

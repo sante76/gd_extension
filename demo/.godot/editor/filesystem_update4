@@ -1,0 +1,3 @@
+res://benchmark.tscn
+res://scripts/benchmark_lot_of_nothing.gd
+res://gd_fake_class.gd

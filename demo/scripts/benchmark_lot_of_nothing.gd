@@ -11,3 +11,6 @@ func _benchmark() -> void:
 	
 func _log_message() -> String:
 	return "Molto di niente in GDScript --> %d usec"
+
+func _vattelappesca(numero: int, altronumero: int) -> float:
+	return 1.0
